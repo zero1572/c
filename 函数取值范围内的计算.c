@@ -2,7 +2,7 @@
 int main()
 {
 	float x,y;
-	printf("ÇëÊäÈëxµÄÖµ£º");
+	printf("è¯·è¾“å…¥xçš„å€¼ï¼š");
 	scanf("%f",&x);
 	if(x>-5&&x<0)
 	{
@@ -20,7 +20,7 @@ int main()
 		printf("y=%f",y);}
 	else
 	{
-		printf("ÊäÈëÊý×Ö²»ÔÚ·¶Î§ÄÚ¡£");
+		printf("è¾“å…¥æ•°å­—ä¸åœ¨èŒƒå›´å†…ã€‚");
 	}
 	return 0;
 }
