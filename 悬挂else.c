@@ -3,21 +3,21 @@ int main()
 {
 	char isRain,isFree;
 	
-	printf("ÊÇ·ñÓĞ¿Õ£¿(Y/N)");
+	printf("æ˜¯å¦æœ‰ç©ºï¼Ÿ(Y/N)");
 	scanf("%c",&isFree);
 	
-	getchar();/*¹ıÂË»Ø³µ*/
+	getchar();/*è¿‡æ»¤å›è½¦*/
 	
-	printf("ÊÇ·ñÏÂÓê£¿(Y/N)");
+	printf("æ˜¯å¦ä¸‹é›¨ï¼Ÿ(Y/N)");
 	scanf("%c",&isRain);
 	if (isFree=='Y')
 	{
 		if(isRain=='Y')
-			printf("¼ÇµÃ´øÓêÉ¡^_^\n");
+			printf("è®°å¾—å¸¦é›¨ä¼^_^\n");
 	}
 	else
 	{
-		printf("Å®ÉñÃ»¿Õ£¡T_T\n");
+		printf("å¥³ç¥æ²¡ç©ºï¼T_T\n");
 	}
 	return 0;
 }
