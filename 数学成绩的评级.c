@@ -2,31 +2,31 @@
 int main()
 {
 	float a;
-	printf("ÇëÊäÈëÊıÑ§³É¼¨£º");
+	printf("è¯·è¾“å…¥æ•°å­¦æˆç»©ï¼š");
 	scanf("%f",&a);
 	if(100>a&&a>90)
 	{
-		printf("µÈ¼¶ÎªA");
+		printf("ç­‰çº§ä¸ºA");
 	}
 	else if(90>=a&&a>80)
 	{
-		printf("µÈ¼¶ÎªB");
+		printf("ç­‰çº§ä¸ºB");
 	}
 	else if(80>=a&&a>70)
 	{
-		printf("µÈ¼¶ÎªC");
+		printf("ç­‰çº§ä¸ºC");
 	}
 	else if(70>=a&&a>60)
 	{
-		printf("µÈ¼¶ÎªD");
+		printf("ç­‰çº§ä¸ºD");
 	}
 	else if(60>=a&&a>0)
 	{
-		printf("µÈ¼¶ÎªE");
+		printf("ç­‰çº§ä¸ºE");
 	}
 	else
 	{
-		printf("ÊäÈë¸ñÊ½´íÎó¡£");
+		printf("è¾“å…¥æ ¼å¼é”™è¯¯ã€‚");
 	}
 	return 0;
 }
