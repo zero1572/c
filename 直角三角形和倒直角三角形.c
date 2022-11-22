@@ -2,7 +2,7 @@
 int main()
 {
 	int i,j,n;
-	printf("请输入要的行数：");
+	printf("脟毛脢盲脠毛脪陋碌脛脨脨脢媒拢潞");
 	scanf("%d",&n);
 	for(i=0;i<n;i++)
 	{
