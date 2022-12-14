@@ -18,7 +18,7 @@ long recursion(int n)
 	int temp_result;
 	if(n<0)
 	{
-		printf("cuowu");
+		printf("输入格式错误。");
 	}
 	else if(n==0||n==1)
 	{
