@@ -1,11 +1,11 @@
 #include <stdio.h>
-long recursion(int);//µİ¹é £¬½×³Ë
+long recursion(int);//ÂµÃÂ¹Ã© Â£Â¬Â½Ã—Â³Ã‹
 int main()
 {
 	int n;
 	long result;
 	
-	printf("ÊäÈëÒ»¸öÊı:\n");
+	printf("ÃŠÃ¤ÃˆÃ«Ã’Â»Â¸Ã¶ÃŠÃ½:\n");
 	scanf("%d",&n);
 	
 	result=recursion(n);
