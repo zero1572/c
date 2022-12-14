@@ -1,5 +1,5 @@
 #include <stdio.h>
-long recursion(int);//µÝ¹é £¬½×³Ë
+long recursion(int);//递归
 int main()
 {
 	int n;
